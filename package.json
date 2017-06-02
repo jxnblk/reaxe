@@ -1,0 +1,27 @@
+{
+  "name": "reaxe",
+  "version": "1.0.0-1",
+  "description": "Syntactic sugar for React.createElement and JSX alternative",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "ava",
+    "docs": "relab docs/Hello.js -e docs/bundle.js",
+    "start": "relab docs/Hello.js -oP 8080"
+  },
+  "keywords": [],
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "dependencies": {
+    "html-tags": "^1.1.1",
+    "react": "^15.5.4"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "funcup": "^1.0.0-0",
+    "palx": "^1.0.2",
+    "react-dom": "^15.5.4",
+    "react-test-renderer": "^15.5.4",
+    "relab": "^1.0.0-beta.9",
+    "superstyle": "^1.0.0-1"
+  }
+}

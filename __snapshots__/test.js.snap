@@ -1,0 +1,697 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`x.a returns the same as x('a') 1`] = `
+<a>
+  Hello
+</a>
+`;
+
+exports[`x.abbr returns the same as x('abbr') 1`] = `
+<abbr>
+  Hello
+</abbr>
+`;
+
+exports[`x.address returns the same as x('address') 1`] = `
+<address>
+  Hello
+</address>
+`;
+
+exports[`x.area returns the same as x('area') 1`] = `
+<area>
+  Hello
+</area>
+`;
+
+exports[`x.article returns the same as x('article') 1`] = `
+<article>
+  Hello
+</article>
+`;
+
+exports[`x.aside returns the same as x('aside') 1`] = `
+<aside>
+  Hello
+</aside>
+`;
+
+exports[`x.audio returns the same as x('audio') 1`] = `
+<audio>
+  Hello
+</audio>
+`;
+
+exports[`x.b returns the same as x('b') 1`] = `
+<b>
+  Hello
+</b>
+`;
+
+exports[`x.base returns the same as x('base') 1`] = `
+<base>
+  Hello
+</base>
+`;
+
+exports[`x.bdi returns the same as x('bdi') 1`] = `
+<bdi>
+  Hello
+</bdi>
+`;
+
+exports[`x.bdo returns the same as x('bdo') 1`] = `
+<bdo>
+  Hello
+</bdo>
+`;
+
+exports[`x.blockquote returns the same as x('blockquote') 1`] = `
+<blockquote>
+  Hello
+</blockquote>
+`;
+
+exports[`x.body returns the same as x('body') 1`] = `
+<body>
+  Hello
+</body>
+`;
+
+exports[`x.br returns the same as x('br') 1`] = `
+<br>
+  Hello
+</br>
+`;
+
+exports[`x.button returns the same as x('button') 1`] = `
+<button>
+  Hello
+</button>
+`;
+
+exports[`x.canvas returns the same as x('canvas') 1`] = `
+<canvas>
+  Hello
+</canvas>
+`;
+
+exports[`x.caption returns the same as x('caption') 1`] = `
+<caption>
+  Hello
+</caption>
+`;
+
+exports[`x.cite returns the same as x('cite') 1`] = `
+<cite>
+  Hello
+</cite>
+`;
+
+exports[`x.code returns the same as x('code') 1`] = `
+<code>
+  Hello
+</code>
+`;
+
+exports[`x.col returns the same as x('col') 1`] = `
+<col>
+  Hello
+</col>
+`;
+
+exports[`x.colgroup returns the same as x('colgroup') 1`] = `
+<colgroup>
+  Hello
+</colgroup>
+`;
+
+exports[`x.data returns the same as x('data') 1`] = `
+<data>
+  Hello
+</data>
+`;
+
+exports[`x.datalist returns the same as x('datalist') 1`] = `
+<datalist>
+  Hello
+</datalist>
+`;
+
+exports[`x.dd returns the same as x('dd') 1`] = `
+<dd>
+  Hello
+</dd>
+`;
+
+exports[`x.del returns the same as x('del') 1`] = `
+<del>
+  Hello
+</del>
+`;
+
+exports[`x.details returns the same as x('details') 1`] = `
+<details>
+  Hello
+</details>
+`;
+
+exports[`x.dfn returns the same as x('dfn') 1`] = `
+<dfn>
+  Hello
+</dfn>
+`;
+
+exports[`x.dialog returns the same as x('dialog') 1`] = `
+<dialog>
+  Hello
+</dialog>
+`;
+
+exports[`x.div returns the same as x('div') 1`] = `
+<div>
+  Hello
+</div>
+`;
+
+exports[`x.dl returns the same as x('dl') 1`] = `
+<dl>
+  Hello
+</dl>
+`;
+
+exports[`x.dt returns the same as x('dt') 1`] = `
+<dt>
+  Hello
+</dt>
+`;
+
+exports[`x.em returns the same as x('em') 1`] = `
+<em>
+  Hello
+</em>
+`;
+
+exports[`x.embed returns the same as x('embed') 1`] = `
+<embed>
+  Hello
+</embed>
+`;
+
+exports[`x.fieldset returns the same as x('fieldset') 1`] = `
+<fieldset>
+  Hello
+</fieldset>
+`;
+
+exports[`x.figcaption returns the same as x('figcaption') 1`] = `
+<figcaption>
+  Hello
+</figcaption>
+`;
+
+exports[`x.figure returns the same as x('figure') 1`] = `
+<figure>
+  Hello
+</figure>
+`;
+
+exports[`x.footer returns the same as x('footer') 1`] = `
+<footer>
+  Hello
+</footer>
+`;
+
+exports[`x.form returns the same as x('form') 1`] = `
+<form>
+  Hello
+</form>
+`;
+
+exports[`x.h1 returns the same as x('h1') 1`] = `
+<h1>
+  Hello
+</h1>
+`;
+
+exports[`x.h2 returns the same as x('h2') 1`] = `
+<h2>
+  Hello
+</h2>
+`;
+
+exports[`x.h3 returns the same as x('h3') 1`] = `
+<h3>
+  Hello
+</h3>
+`;
+
+exports[`x.h4 returns the same as x('h4') 1`] = `
+<h4>
+  Hello
+</h4>
+`;
+
+exports[`x.h5 returns the same as x('h5') 1`] = `
+<h5>
+  Hello
+</h5>
+`;
+
+exports[`x.h6 returns the same as x('h6') 1`] = `
+<h6>
+  Hello
+</h6>
+`;
+
+exports[`x.head returns the same as x('head') 1`] = `
+<head>
+  Hello
+</head>
+`;
+
+exports[`x.header returns the same as x('header') 1`] = `
+<header>
+  Hello
+</header>
+`;
+
+exports[`x.hr returns the same as x('hr') 1`] = `
+<hr>
+  Hello
+</hr>
+`;
+
+exports[`x.html returns the same as x('html') 1`] = `
+<html>
+  Hello
+</html>
+`;
+
+exports[`x.i returns the same as x('i') 1`] = `
+<i>
+  Hello
+</i>
+`;
+
+exports[`x.iframe returns the same as x('iframe') 1`] = `
+<iframe>
+  Hello
+</iframe>
+`;
+
+exports[`x.img returns the same as x('img') 1`] = `
+<img>
+  Hello
+</img>
+`;
+
+exports[`x.input returns the same as x('input') 1`] = `
+<input>
+  Hello
+</input>
+`;
+
+exports[`x.ins returns the same as x('ins') 1`] = `
+<ins>
+  Hello
+</ins>
+`;
+
+exports[`x.kbd returns the same as x('kbd') 1`] = `
+<kbd>
+  Hello
+</kbd>
+`;
+
+exports[`x.keygen returns the same as x('keygen') 1`] = `
+<keygen>
+  Hello
+</keygen>
+`;
+
+exports[`x.label returns the same as x('label') 1`] = `
+<label>
+  Hello
+</label>
+`;
+
+exports[`x.legend returns the same as x('legend') 1`] = `
+<legend>
+  Hello
+</legend>
+`;
+
+exports[`x.li returns the same as x('li') 1`] = `
+<li>
+  Hello
+</li>
+`;
+
+exports[`x.link returns the same as x('link') 1`] = `
+<link>
+  Hello
+</link>
+`;
+
+exports[`x.main returns the same as x('main') 1`] = `
+<main>
+  Hello
+</main>
+`;
+
+exports[`x.map returns the same as x('map') 1`] = `
+<map>
+  Hello
+</map>
+`;
+
+exports[`x.mark returns the same as x('mark') 1`] = `
+<mark>
+  Hello
+</mark>
+`;
+
+exports[`x.math returns the same as x('math') 1`] = `
+<math>
+  Hello
+</math>
+`;
+
+exports[`x.menu returns the same as x('menu') 1`] = `
+<menu>
+  Hello
+</menu>
+`;
+
+exports[`x.menuitem returns the same as x('menuitem') 1`] = `
+<menuitem>
+  Hello
+</menuitem>
+`;
+
+exports[`x.meta returns the same as x('meta') 1`] = `
+<meta>
+  Hello
+</meta>
+`;
+
+exports[`x.meter returns the same as x('meter') 1`] = `
+<meter>
+  Hello
+</meter>
+`;
+
+exports[`x.nav returns the same as x('nav') 1`] = `
+<nav>
+  Hello
+</nav>
+`;
+
+exports[`x.noscript returns the same as x('noscript') 1`] = `
+<noscript>
+  Hello
+</noscript>
+`;
+
+exports[`x.object returns the same as x('object') 1`] = `
+<object>
+  Hello
+</object>
+`;
+
+exports[`x.ol returns the same as x('ol') 1`] = `
+<ol>
+  Hello
+</ol>
+`;
+
+exports[`x.optgroup returns the same as x('optgroup') 1`] = `
+<optgroup>
+  Hello
+</optgroup>
+`;
+
+exports[`x.option returns the same as x('option') 1`] = `
+<option>
+  Hello
+</option>
+`;
+
+exports[`x.output returns the same as x('output') 1`] = `
+<output>
+  Hello
+</output>
+`;
+
+exports[`x.p returns the same as x('p') 1`] = `
+<p>
+  Hello
+</p>
+`;
+
+exports[`x.param returns the same as x('param') 1`] = `
+<param>
+  Hello
+</param>
+`;
+
+exports[`x.picture returns the same as x('picture') 1`] = `
+<picture>
+  Hello
+</picture>
+`;
+
+exports[`x.pre returns the same as x('pre') 1`] = `
+<pre>
+  Hello
+</pre>
+`;
+
+exports[`x.progress returns the same as x('progress') 1`] = `
+<progress>
+  Hello
+</progress>
+`;
+
+exports[`x.q returns the same as x('q') 1`] = `
+<q>
+  Hello
+</q>
+`;
+
+exports[`x.rb returns the same as x('rb') 1`] = `
+<rb>
+  Hello
+</rb>
+`;
+
+exports[`x.rp returns the same as x('rp') 1`] = `
+<rp>
+  Hello
+</rp>
+`;
+
+exports[`x.rt returns the same as x('rt') 1`] = `
+<rt>
+  Hello
+</rt>
+`;
+
+exports[`x.rtc returns the same as x('rtc') 1`] = `
+<rtc>
+  Hello
+</rtc>
+`;
+
+exports[`x.ruby returns the same as x('ruby') 1`] = `
+<ruby>
+  Hello
+</ruby>
+`;
+
+exports[`x.s returns the same as x('s') 1`] = `
+<s>
+  Hello
+</s>
+`;
+
+exports[`x.samp returns the same as x('samp') 1`] = `
+<samp>
+  Hello
+</samp>
+`;
+
+exports[`x.script returns the same as x('script') 1`] = `
+<script>
+  Hello
+</script>
+`;
+
+exports[`x.section returns the same as x('section') 1`] = `
+<section>
+  Hello
+</section>
+`;
+
+exports[`x.select returns the same as x('select') 1`] = `
+<select>
+  Hello
+</select>
+`;
+
+exports[`x.small returns the same as x('small') 1`] = `
+<small>
+  Hello
+</small>
+`;
+
+exports[`x.source returns the same as x('source') 1`] = `
+<source>
+  Hello
+</source>
+`;
+
+exports[`x.span returns the same as x('span') 1`] = `
+<span>
+  Hello
+</span>
+`;
+
+exports[`x.strong returns the same as x('strong') 1`] = `
+<strong>
+  Hello
+</strong>
+`;
+
+exports[`x.style returns the same as x('style') 1`] = `
+<style>
+  Hello
+</style>
+`;
+
+exports[`x.sub returns the same as x('sub') 1`] = `
+<sub>
+  Hello
+</sub>
+`;
+
+exports[`x.summary returns the same as x('summary') 1`] = `
+<summary>
+  Hello
+</summary>
+`;
+
+exports[`x.sup returns the same as x('sup') 1`] = `
+<sup>
+  Hello
+</sup>
+`;
+
+exports[`x.svg returns the same as x('svg') 1`] = `
+<svg>
+  Hello
+</svg>
+`;
+
+exports[`x.table returns the same as x('table') 1`] = `
+<table>
+  Hello
+</table>
+`;
+
+exports[`x.tbody returns the same as x('tbody') 1`] = `
+<tbody>
+  Hello
+</tbody>
+`;
+
+exports[`x.td returns the same as x('td') 1`] = `
+<td>
+  Hello
+</td>
+`;
+
+exports[`x.template returns the same as x('template') 1`] = `
+<template>
+  Hello
+</template>
+`;
+
+exports[`x.textarea returns the same as x('textarea') 1`] = `
+<textarea>
+  Hello
+</textarea>
+`;
+
+exports[`x.tfoot returns the same as x('tfoot') 1`] = `
+<tfoot>
+  Hello
+</tfoot>
+`;
+
+exports[`x.th returns the same as x('th') 1`] = `
+<th>
+  Hello
+</th>
+`;
+
+exports[`x.thead returns the same as x('thead') 1`] = `
+<thead>
+  Hello
+</thead>
+`;
+
+exports[`x.time returns the same as x('time') 1`] = `
+<time>
+  Hello
+</time>
+`;
+
+exports[`x.title returns the same as x('title') 1`] = `
+<title>
+  Hello
+</title>
+`;
+
+exports[`x.tr returns the same as x('tr') 1`] = `
+<tr>
+  Hello
+</tr>
+`;
+
+exports[`x.track returns the same as x('track') 1`] = `
+<track>
+  Hello
+</track>
+`;
+
+exports[`x.u returns the same as x('u') 1`] = `
+<u>
+  Hello
+</u>
+`;
+
+exports[`x.ul returns the same as x('ul') 1`] = `
+<ul>
+  Hello
+</ul>
+`;
+
+exports[`x.var returns the same as x('var') 1`] = `
+<var>
+  Hello
+</var>
+`;
+
+exports[`x.video returns the same as x('video') 1`] = `
+<video>
+  Hello
+</video>
+`;
+
+exports[`x.wbr returns the same as x('wbr') 1`] = `
+<wbr>
+  Hello
+</wbr>
+`;
