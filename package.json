@@ -5,8 +5,9 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "ava",
-    "docs": "relab docs/Hello.js -e docs/bundle.js",
-    "start": "relab docs/Hello.js -oP 8080"
+    "docs": "NODE_ENV=production relab docs/Hello.js -e docs/bundle.js",
+    "start": "relab docs/Hello.js -oP 8080",
+    "bench": "node bench.js"
   },
   "keywords": [],
   "author": "Brent Jackson",
@@ -17,11 +18,12 @@
   },
   "devDependencies": {
     "ava": "^0.19.1",
+    "benchmark": "^2.1.4",
     "funcup": "^1.0.0-0",
     "palx": "^1.0.2",
     "react-dom": "^15.5.4",
     "react-test-renderer": "^15.5.4",
-    "relab": "^1.0.0-beta.9",
+    "relab": "^1.0.0-10",
     "superstyle": "^1.0.0-1"
   }
 }
