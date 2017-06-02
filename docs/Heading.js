@@ -1,5 +1,6 @@
 const sx = require('superstyle/react')
 const { h1 } = require('../lib')
+const breakpoints = require('./breakpoints')
 
 const style = {
   fontSize: 48,
@@ -12,15 +13,15 @@ const style = {
   color: '#fff',
   backgroundColor: '#000',
 
-  '@media screen and (min-width:40em)': {
+  [breakpoints[0]]: {
     fontSize: 48,
   },
-  '@media screen and (min-width:52em)': {
+  [breakpoints[1]]: {
     fontSize: 64,
   },
-  '@media screen and (min-width:64em)': {
+  [breakpoints[2]]: {
     fontSize: 96,
-  },
+  }
 }
 
 module.exports = sx(style)(props => h1(props))

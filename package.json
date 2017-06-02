@@ -22,8 +22,9 @@
     "funcup": "^1.0.0-0",
     "palx": "^1.0.2",
     "react-dom": "^15.5.4",
+    "react-live": "^1.5.3",
     "react-test-renderer": "^15.5.4",
-    "relab": "^1.0.0-10",
+    "relab": "^1.0.0-12",
     "superstyle": "^1.0.0-1"
   }
 }

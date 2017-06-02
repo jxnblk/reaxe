@@ -3,13 +3,16 @@ const { pre } = require('../lib')
 const colors = require('./colors')
 
 const style = {
-  fontFamily: 'SFMono, Menlo, monospace',
+  fontFamily: 'SF Mono, Menlo, monospace',
+  lineHeight: 1.75,
   fontSize: 14,
+  maxWidth: '100%',
   padding: 8,
   color: colors[0][6],
   backgroundColor: '#000',
-  opacity: 3/4,
-  mixBlendMode: 'multiply'
+  opacity: 7/8,
+  mixBlendMode: 'multiply',
+  overflow: 'auto'
 }
 
 module.exports = sx(style)(_props => {
