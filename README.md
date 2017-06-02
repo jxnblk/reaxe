@@ -23,6 +23,7 @@ Using JSX in Node.js or Electron environments requires the use of transpilers
 like Babel. React can be used in these environments without JSX, but the syntax
 can be a little cumbersome compared to JSX. This module is meant to be a small
 wrapper around React.createElement to make the syntax easier to read and work with.
+*I have no idea whether this is a good idea or not.*
 
 ```jsx
 // JSX
