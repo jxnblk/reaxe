@@ -1,7 +1,7 @@
 
 # Reaxe
 
-Syntactic sugar for React.createElement and JSX alternative
+:candy: Syntactic sugar for React.createElement and JSX alternative
 
 ```sh
 npm i reaxe
